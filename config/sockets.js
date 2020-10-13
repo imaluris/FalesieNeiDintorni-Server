@@ -9,7 +9,9 @@
  * https://sailsjs.com/config/sockets
  */
 
-module.exports.sockets = {
+sockets = {
+
+  onlyAllowOrigins: ["https://www.secure-hamlet-14675.herokuapp.com", "https://secure-hamlet-14675.herokuapp.com"]
 
   /***************************************************************************
   *                                                                          *

@@ -21,6 +21,8 @@ module.exports.session = {
   secret: 'd21929dce7a5487bfb1090e8f42a9748',
 
 
+
+
   /***************************************************************************
   *                                                                          *
   * Customize when built-in session support will be skipped.                 *
@@ -37,3 +39,7 @@ module.exports.session = {
   // },
 
 };
+
+module.exports.cookie = {
+  secure: 'true'
+}

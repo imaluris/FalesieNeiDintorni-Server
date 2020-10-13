@@ -14,7 +14,7 @@
  */
 
 module.exports.models = {
-  connection: 'localDiskDb',
+  datastore: 'localDiskDb',
 
   /***************************************************************************
   *                                                                          *
