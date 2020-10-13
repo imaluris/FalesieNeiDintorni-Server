@@ -41,5 +41,5 @@ module.exports.session = {
 };
 
 module.exports.cookie = {
-  secure: 'true'
+  secure: true
 }
