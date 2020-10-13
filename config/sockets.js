@@ -11,7 +11,7 @@
 
 sockets = {
 
-  onlyAllowOrigins: ["https://www.secure-hamlet-14675.herokuapp.com", "https://secure-hamlet-14675.herokuapp.com"]
+
 
   /***************************************************************************
   *                                                                          *
